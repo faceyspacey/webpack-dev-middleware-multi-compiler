@@ -91,6 +91,8 @@ app.use(webpackMiddleware(webpack({
 
 ## Advanced API
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/faceyspacey/webpack-dev-middleware-multi-compiler.svg)](https://greenkeeper.io/)
+
 This part shows how you might interact with the middleware during runtime:
 
 * `close(callback)` - stop watching for file changes
